@@ -4,7 +4,7 @@ Custom drawings from a budding artist for a small donation
 <html lang="ru"> 
 <head>
     <meta charset="UTF-8">
-    <title>Sendraw</title> - 
+    <title>Sendraw</title> 
 </head>
 <body>
     <div id="main">
